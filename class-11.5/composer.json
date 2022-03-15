@@ -1,0 +1,19 @@
+
+{
+  "name": "class-11.5/class-11.5",
+  "type": "project",
+  "description": "new project",
+  "license": "",
+  "keywords": [],
+  "require": {
+
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "class-08/class-08",
+  "type": "project",
+  "description": "php first project",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    }
+  }
+}

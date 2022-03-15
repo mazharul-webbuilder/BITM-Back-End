@@ -1,0 +1,19 @@
+
+{
+  "name": "class-10.1/class-10.1",
+  "type": "project",
+  "description": "php array practice",
+  "license": "",
+  "keywords": [],
+  "require": {
+
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    }
+  }
+}

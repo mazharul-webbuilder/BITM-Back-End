@@ -1,0 +1,14 @@
+{
+  "name": "day-10/day-10",
+  "type": "project",
+  "description": "day 10 project array",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    }
+  }
+}
